@@ -1,4 +1,4 @@
 interface:
   display_name: "GTNH Design"
-  short_description: "Дизайн GTNH со schematic и двумя видами рендера"
-  default_prompt: "Используй $gtnh-design, чтобы спроектировать постройку и проверить её на рельефе быстрым и нативным рендерами."
+  short_description: "Постройки GTNH: чертежи и два способа рендера"
+  default_prompt: "Используй $gtnh-design, чтобы спроектировать постройку и проверить её на реальном рельефе в быстром и нативном рендере."
