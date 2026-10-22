@@ -1,0 +1,8 @@
+{
+  "prism_data": "/absolute/path/to/PrismLauncher",
+  "prism_executable": "/Applications/Prism Launcher.app/Contents/MacOS/prismlauncher",
+  "java_home": "/absolute/path/to/jdk-21/Contents/Home",
+  "source_instance": "GT New Horizons 2.9.0-RC-2",
+  "worker_instance": "GTNH Design Renderer",
+  "preview_world": "Bridge Studio"
+}

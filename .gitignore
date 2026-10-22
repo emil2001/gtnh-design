@@ -1,0 +1,17 @@
+runtime/
+projects/
+config.local.json
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.schematic
+*.mca
+*.dat
+*.jar
+*.class
+*.log
+*.zip
+*.tar.gz
